@@ -1,0 +1,1 @@
+# Practice-and-Application-of-Pattern-Recognition
